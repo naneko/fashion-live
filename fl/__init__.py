@@ -2,7 +2,7 @@
 Fashion Live
 By Ben Saltz
 
-Credits:
+Code Credits:
     - Tensorflow Fashion-MNIST tutorial (https://www.tensorflow.org/tutorials/keras/classification)
         - matplotlib code modified from the code provided in this tutorial
         - Code to create Keras model modified from the code provided in this tutorial
